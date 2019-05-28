@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Despliega" >
+        <item>Suma</item>
+        <item>Resta</item>}
+        <item>Multiplicacion</item>
+        <item>Divicion</item>
+        <item>Potencia</item>
+
+        </string-array>
+</resources>
